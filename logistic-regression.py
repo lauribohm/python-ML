@@ -14,7 +14,6 @@ from sklearn.impute import SimpleImputer
 from collections import Counter
 from sklearn.metrics import confusion_matrix
 from imblearn.over_sampling import SMOTE
-from sklearn.linear_model import LinearRegression 
 from sklearn.metrics import recall_score
 from sklearn.metrics import precision_score
 
